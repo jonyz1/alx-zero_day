@@ -1,0 +1,1 @@
+thie is the first directoryfor git in the zero alx project
